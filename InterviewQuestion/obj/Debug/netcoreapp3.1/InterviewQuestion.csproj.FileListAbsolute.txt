@@ -1,0 +1,284 @@
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.exe
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.deps.json
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.json
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.dev.json
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.pdb
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.AssemblyReference.cache
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfoInputs.cache
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfo.cs
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CoreCompileInputs.cache
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.MvcApplicationPartsAssemblyInfo.cs
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.MvcApplicationPartsAssemblyInfo.cache
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\staticwebassets\InterviewQuestion.StaticWebAssets.Manifest.cache
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\staticwebassets\InterviewQuestion.StaticWebAssets.xml
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\scopedcss\bundle\InterviewQuestion.styles.css
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.RazorTargetAssemblyInfo.cache
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CopyComplete
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.dll
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.pdb
+C:\InterviewProject_WebApi\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.genruntimeconfig.cache
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.exe
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.deps.json
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.json
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.dev.json
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.pdb
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.AssemblyReference.cache
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfoInputs.cache
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfo.cs
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\staticwebassets\InterviewQuestion.StaticWebAssets.Manifest.cache
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\staticwebassets\InterviewQuestion.StaticWebAssets.xml
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\scopedcss\bundle\InterviewQuestion.styles.css
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.RazorTargetAssemblyInfo.cache
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CopyComplete
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.dll
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.pdb
+C:\Users\Sajid Lulaniya\Downloads\InterviewQuestion (1)\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.genruntimeconfig.cache
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.exe
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.deps.json
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.json
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.dev.json
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.pdb
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.AssemblyReference.cache
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfoInputs.cache
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfo.cs
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\staticwebassets\InterviewQuestion.StaticWebAssets.Manifest.cache
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\staticwebassets\InterviewQuestion.StaticWebAssets.xml
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\scopedcss\bundle\InterviewQuestion.styles.css
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.RazorTargetAssemblyInfo.cache
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CopyComplete
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.dll
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.pdb
+C:\Users\Sajid Lulaniya\Desktop\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.genruntimeconfig.cache
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.exe
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.deps.json
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.json
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.dev.json
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.pdb
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.AssemblyReference.cache
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfoInputs.cache
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfo.cs
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\staticwebassets\InterviewQuestion.StaticWebAssets.Manifest.cache
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\staticwebassets\InterviewQuestion.StaticWebAssets.xml
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\scopedcss\bundle\InterviewQuestion.styles.css
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.RazorTargetAssemblyInfo.cache
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CopyComplete
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.dll
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.pdb
+C:\Users\Naim\Downloads\Interview_Questions_Answers\Interview_Questions_Answers\InterviewQuestionAPI\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.genruntimeconfig.cache
